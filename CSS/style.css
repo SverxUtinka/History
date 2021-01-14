@@ -1,0 +1,12 @@
+body {
+	background-image: url(background.png);
+}
+
+#top {
+	opacity: .8;
+}
+
+#poster {
+    position: absolute;
+    right: 15px;
+}
