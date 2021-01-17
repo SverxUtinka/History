@@ -1,0 +1,31 @@
+body {
+	background: url(file:///D:/site/CSS/background.png);
+}
+
+#top {
+	opacity: .8;
+}
+
+.stalin {
+	color: red;
+	border: 0.2px solid red;
+}
+
+#stalin0 {
+	position: absolute;
+	left: 250px;
+	width: 900px;
+	height: 190px;
+}
+
+#stalin1 {
+	position: absolute;
+	left: 250px;
+	top: 200px;
+	width: 900px;
+	height: 245px;
+}
+
+.stalinimg {
+	border-radius: 60px; 
+}
