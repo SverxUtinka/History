@@ -26,14 +26,14 @@ body {
 
 #stalin0 {
 	position: absolute;
-	left: 250px;
+	left: 50px;
 	width: 900px;
 	height: 190px;
 }
 
 #stalin1 {
 	position: absolute;
-	left: 250px;
+	left: 50px;
 	top: 260px;
 	width: 900px;
 	height: 240px;
@@ -41,7 +41,7 @@ body {
 
 #karpinsky0 {
 	position: absolute;
-	left: 250px;
+	left: 50px;
 	top: 515px;
 	width: 900px;
 	height: 215px;
