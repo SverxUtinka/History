@@ -1,5 +1,5 @@
 body {
-	background: url(file:///D:/site/CSS/background.png);
+	background: url(img/background.png);
 }
 
 #top {
@@ -7,8 +7,21 @@ body {
 }
 
 .stalin {
-	color: red;
-	border: 0.2px solid red;
+	color: white;
+	border: 0.2px solid white;
+}
+
+.karpinsky {
+	color: white;
+	border: 0.2px solid white;
+}
+
+.stalinimg {
+	border-radius: 60px; 
+}
+
+.karpinskyimg {
+	border-radius: 60px; 
 }
 
 #stalin0 {
@@ -21,11 +34,15 @@ body {
 #stalin1 {
 	position: absolute;
 	left: 250px;
-	top: 200px;
+	top: 260px;
 	width: 900px;
-	height: 245px;
+	height: 240px;
 }
 
-.stalinimg {
-	border-radius: 60px; 
+#karpinsky0 {
+	position: absolute;
+	left: 250px;
+	top: 515px;
+	width: 900px;
+	height: 215px;
 }
