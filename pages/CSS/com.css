@@ -1,0 +1,56 @@
+body {
+	background: url(img/background.png);
+}
+
+#top {
+	opacity: .8;
+}
+
+.stalin {
+	color: white;
+	border: 0.2px solid white;
+}
+
+.karpinsky {
+	color: white;
+	border: 0.2px solid white;
+}
+
+.stalinimg {
+	border-radius: 60px; 
+}
+
+.karpinskyimg {
+	border-radius: 60px; 
+}
+
+#stalin0 {
+	position: absolute;
+	left: 50px;
+	width: 900px;
+	height: 190px;
+}
+
+#stalin1 {
+	position: absolute;
+	left: 50px;
+	top: 260px;
+	width: 900px;
+	height: 240px;
+}
+
+#stalin2 {
+	position: absolute;
+	left: 50px;
+	top: 745px;
+	width: 900px;
+	height: 210px;
+}
+
+#karpinsky0 {
+	position: absolute;
+	left: 50px;
+	top: 515px;
+	width: 900px;
+	height: 215px;
+}
