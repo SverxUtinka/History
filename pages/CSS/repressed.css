@@ -1,0 +1,74 @@
+body {
+	background: url(img/background.png);
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+strong {
+	color: white;
+}
+
+.doc {
+	border: 4px white solid;	
+}
+
+.docDiv {
+	position: absolute;
+	right: 10px;
+	top: 100px;
+}
+
+.info {
+	font-size: 40px;
+	border: 8px #c42f2b solid;
+	background: #c42f2b;
+	position: absolute;
+	width: 850px;
+}
+
+.static {
+	position: absolute;
+	left: 0px;
+	top: 100px;
+}
+
+.lenta {
+	font-size: 25px;
+	border: 8px #c42f2b solid;
+	background: #c42f2b;
+	position: absolute;
+}
+
+#a1 {
+	left: 10px;
+	top: 10px;
+	width: 840px;
+}
+
+#a2 {
+	left: 10px;
+	top: 100px;
+	width: 830px;
+}
+
+#a3 {
+	left: 10px;
+	top: 190px;
+	width: 820px;
+}
+
+#a4 {
+	left: 10px;
+	top: 280px;
+	width: 810px;
+}
+
+#a5 {
+	left: 10px;
+	top: 370px;
+	width: 790px;
+}

@@ -1,0 +1,91 @@
+#bd1 {
+	position: absolute;
+	right: 0px;
+}
+
+#title {
+	opacity: .9;
+	border: 2px #A82C2C solid;
+	background: #A82C2C;
+	width: 1659px;
+	height: 60px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+#a {
+	position: absolute;
+	top: 5px;
+	left: 520px;
+	font-size: 40px;
+}
+
+.info {
+	font-size: 40px;
+	border: 8px #c42f2b solid;
+	background: #c42f2b;
+	position: absolute;
+	width: 850px;
+}
+
+.static {
+	position: absolute;
+	left: 0px;
+	top: 100px;
+}
+
+.lenta {
+	font-size: 25px;
+	border: 8px #c42f2b solid;
+	background: #c42f2b;
+	position: absolute;
+}
+
+#a0 {
+	left: 10px;
+	top: 10px;
+	width: 240px;
+}
+
+#a1 {
+	left: 10px;
+	top: 10px;
+	width: 840px;
+}
+
+#a2 {
+	left: 10px;
+	top: 90px;
+	width: 830px;
+}
+
+#a3 {
+	left: 10px;
+	top: 180px;
+	width: 820px;
+}
+
+#a4 {
+	left: 10px;
+	top: 270px;
+	width: 840px;
+}
+
+#a5 {
+	left: 10px;
+	top: 420px;
+	width: 790px;
+}
+
+#a52 {
+	left: 10px;
+	top: 360px;
+	width: 790px;
+}
+
+#a6 {
+	left: 10px;
+	top: 510px;
+	width: 790px;
+}
