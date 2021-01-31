@@ -1,9 +1,12 @@
 @media only screen and (max-width: 980px) {
 
+body {
+	background: white;
+}
 .cap {
 	opacity: .9;
-	border: 2px red solid;
-	background: red;
+	border: 2px #A82C2C solid;
+	background: #A82C2C;
 	width: 99.78%;
 	height: 200px;
 	position: absolute;
@@ -16,19 +19,15 @@
 }
 
 #name {
-	left: 120px;
+	left: 175px;
 }
 
 #project {
-	left: 360px;
+	left: 410px;
 }
 
 .menu {
-	left: 90px
-}
-
-#page51 {
-	font-size: 2;
+	left: 145px
 }
 
 .poster {
@@ -39,10 +38,14 @@
 
 @media only screen and (max-width: 768px) {
 
+body {
+	background: white;
+}
+
 .cap {
 	opacity: .9;
-	border: 2px black solid;
-	background: black;
+	border: 2px #A82C2C solid;
+	background: #A82C2C;
 	width: 99.78%;
 	height: 200px;
 	position: absolute;
