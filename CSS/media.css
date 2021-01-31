@@ -1,4 +1,5 @@
 @media only screen and (max-width: 980px) {
+
 .page {
 	width: 750px;
 }
@@ -26,19 +27,39 @@
 }
 
 @media only screen and (max-width: 768px) {
-.cap {
-	opacity: .9;
-	border: 2px #A82C2C solid;
-	background: #A82C2C;
-	width: 101%;
-	height: 200px;
-	position: absolute;
+
+#page21 {
+	left: -30px;
+	top: -50px;
+	width: 151px;
+}
+
+#page15 {
+	left: 121px;
+	top: -50px;
+	width: 151px;
+}
+
+#page50 {
+	left: 272px;
+	top: -50px;
+	width: 151px;
+}
+
+#page05 {
 	left: 0px;
-	top: 0px;
+	top: -10px;
+	width: 151px;
+}
+
+#page51 {
+	left: 155px;
+	top: -10px;
+	width: 151px;
 }
 
 .page {
-	width: 480px;
+	width: 750px;
 }
 
 #name {
