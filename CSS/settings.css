@@ -1,45 +1,102 @@
-#bd1 {
-	position: absolute;
-	right: 0px;
+.page {
+	width: 940px;
+	margin: 50px auto;
 }
 
-#repressed {
-	position: absolute;
-	right: 10px;
-	top: 70px;
-	font-size: 20px;
-	color: white;
-}
 
-#com {
-	position: absolute;
-	right: 10px;
-	top: 90px;
-	font-size: 20px;
-	color: white;
-}
-
-#title {
+.cap {
 	opacity: .9;
 	border: 2px #A82C2C solid;
 	background: #A82C2C;
-	width: 1676px;
-	height: 60px;
+	width: 99.78%;
+	height: 200px;
 	position: absolute;
 	left: 0px;
 	top: 0px;
 }
 
-#a {
+#name {
 	position: absolute;
-	top: 5px;
-	left: 520px;
+	top: 30px;
+	left: 470px;
 	font-size: 40px;
 }
 
 #project {
 	position: absolute;
-	left: 5px;
+	left: 700px;
 	top: 5px;
-	font-size: 25px;
+	font-size: 20px;
+}
+
+.menu {
+	position: relative;
+	top: 100px;
+	left: 160px;
+}
+
+#page21 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 30px;
+	position: absolute;
+	left: -151px;
+}
+
+#page15 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 30px;
+	position: absolute;
+	left: 0px;
+}
+
+#page50 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 30px;
+	position: absolute;
+	left: 151px;
+}
+
+
+#page05 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 30px;
+	position: absolute;
+	left: 302px;
+}
+
+
+#page51 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 30px;
+	position: absolute;
+	left: 453px;
+}
+
+.poster {
+	position: absolute;
+	left: 0px;
+	top: 204px;
+	border: 6px white solid;
+	width: 605px;
+}
+
+#com {
+	position: absolute;
+	left: 0px;
+	top: 90px;
+	font-size: 20px;
+	color: black;
+}
+
+#repressed {
+	position: absolute;
+	left: 0px;
+	top: 140px;
+	font-size: 20px;
+	color: black;
 }

@@ -1,5 +1,4 @@
 body {
-	background: url(img/background.png);
 	font-family: sans-serif;
 }
 
@@ -41,34 +40,4 @@ strong {
 	border: 8px #c42f2b solid;
 	background: #c42f2b;
 	position: absolute;
-}
-
-#a1 {
-	left: 10px;
-	top: 10px;
-	width: 840px;
-}
-
-#a2 {
-	left: 10px;
-	top: 100px;
-	width: 830px;
-}
-
-#a3 {
-	left: 10px;
-	top: 190px;
-	width: 820px;
-}
-
-#a4 {
-	left: 10px;
-	top: 280px;
-	width: 810px;
-}
-
-#a5 {
-	left: 10px;
-	top: 370px;
-	width: 790px;
 }

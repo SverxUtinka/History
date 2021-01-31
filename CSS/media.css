@@ -1,0 +1,60 @@
+@media only screen and (max-width: 980px) {
+.page {
+	width: 750px;
+}
+
+#name {
+	left: 120px;
+}
+
+#project {
+	left: 360px;
+}
+
+.menu {
+	left: 90px
+}
+
+#page51 {
+	font-size: 2;
+}
+
+.poster {
+	width: 30px;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+.cap {
+	opacity: .9;
+	border: 2px #A82C2C solid;
+	background: #A82C2C;
+	width: 101%;
+	height: 200px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.page {
+	width: 480px;
+}
+
+#name {
+	left: 120px;
+}
+
+#project {
+	left: 360px;
+}
+
+.menu {
+	left: 90px
+}
+
+.poster {
+	width: 30px;
+}
+
+}
