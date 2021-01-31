@@ -1,5 +1,16 @@
 @media only screen and (max-width: 980px) {
 
+.cap {
+	opacity: .9;
+	border: 2px red solid;
+	background: red;
+	width: 99.78%;
+	height: 200px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
 .page {
 	width: 750px;
 }
@@ -27,6 +38,17 @@
 }
 
 @media only screen and (max-width: 768px) {
+
+.cap {
+	opacity: .9;
+	border: 2px black solid;
+	background: black;
+	width: 99.78%;
+	height: 200px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
 
 #page21 {
 	left: -30px;
