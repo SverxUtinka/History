@@ -30,4 +30,51 @@ body {
 	width: 30px;
 }
 
+#page21 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: -248px;
+	top: 0px;
+}
+
+#page15 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: -50px;
+	top: 0px;
+}
+
+#page50 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 150px;
+	top: 0px;
+}
+
+
+#page05 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 345px;
+	top: 0px;
+}
+
+
+#page51 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 540px;
+	top: 0px;
+}
+
 }
