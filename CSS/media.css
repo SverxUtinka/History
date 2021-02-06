@@ -3,15 +3,9 @@
 body {
 	background: white;
 }
+
 .cap {
-	opacity: .9;
-	border: 2px #A82C2C solid;
-	background: #A82C2C;
-	width: 104%;
-	height: 200px;
-	position: absolute;
-	left: 0px;
-	top: 0px;
+	width: 1000px;
 }
 
 .page {
@@ -19,7 +13,9 @@ body {
 }
 
 #name {
-	left: 220px;
+	left: 100px;
+	font-size: 55px;
+	width: 900px;
 }
 
 #project {
@@ -28,75 +24,6 @@ body {
 
 .menu {
 	left: 145px
-}
-
-.poster {
-	width: 30px;
-}
-
-}
-
-@media only screen and (max-width: 768px) {
-
-body {
-	background: white;
-}
-
-.cap {
-	opacity: .9;
-	border: 2px #A82C2C solid;
-	background: #A82C2C;
-	width: 99.78%;
-	height: 200px;
-	position: absolute;
-	left: 0px;
-	top: 0px;
-}
-
-#page21 {
-	left: -30px;
-	top: -50px;
-	width: 151px;
-}
-
-#page15 {
-	left: 121px;
-	top: -50px;
-	width: 151px;
-}
-
-#page50 {
-	left: 272px;
-	top: -50px;
-	width: 151px;
-}
-
-#page05 {
-	left: 0px;
-	top: -10px;
-	width: 151px;
-}
-
-#page51 {
-	left: 155px;
-	top: -10px;
-	width: 151px;
-}
-
-.page {
-	width: 750px;
-}
-
-#name {
-	left: 120px;
-}
-
-#project {
-	left: 360px;
-}
-
-.menu {
-	left: 90px
 }
 
 .poster {

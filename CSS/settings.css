@@ -38,43 +38,48 @@
 #page21 {
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 30px;
+	font-size: 39px;
 	position: absolute;
-	left: -151px;
+	left: -250px;
+	top: 2px;
 }
 
 #page15 {
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 30px;
+	font-size: 39px;
 	position: absolute;
-	left: 0px;
+	left: -60px;
+	top: 2px;
 }
 
 #page50 {
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 30px;
+	font-size: 39px;
 	position: absolute;
-	left: 151px;
+	left: 130px;
+	top: 2px;
 }
 
 
 #page05 {
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 30px;
+	font-size: 39px;
 	position: absolute;
-	left: 302px;
+	left: 322px;
+	top: 2px;
 }
 
 
 #page51 {
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 30px;
+	font-size: 39px;
 	position: absolute;
-	left: 453px;
+	left: 515px;
+	top: 2px;
 }
 
 .poster {
