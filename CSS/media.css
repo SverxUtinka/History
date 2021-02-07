@@ -5,7 +5,7 @@ body {
 }
 
 .cap {
-	width: 1000px;
+	width: 1002px;
 }
 
 .page {
@@ -22,7 +22,7 @@ body {
 
 #project {
 	position: absolute;
-	left: 420px;
+	left: 390px;
 	top: 10px;
 	font-size: 40px;
 }
