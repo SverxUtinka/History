@@ -13,13 +13,18 @@ body {
 }
 
 #name {
-	left: 100px;
-	font-size: 55px;
+	position: absolute;
+	left: 55px;
+	top: 50px;
+	font-size: 60px;
 	width: 900px;
 }
 
 #project {
-	left: 480px;
+	position: absolute;
+	left: 420px;
+	top: 10px;
+	font-size: 40px;
 }
 
 .menu {
@@ -35,7 +40,7 @@ body {
 	background: #c42f2b;
 	font-size: 39px;
 	position: absolute;
-	left: -250px;
+	left: -255px;
 	top: 0px;
 }
 
@@ -44,7 +49,7 @@ body {
 	background: #c42f2b;
 	font-size: 39px;
 	position: absolute;
-	left: -50px;
+	left: -55px;
 	top: 0px;
 }
 
@@ -53,7 +58,7 @@ body {
 	background: #c42f2b;
 	font-size: 39px;
 	position: absolute;
-	left: 150px;
+	left: 145px;
 	top: 0px;
 }
 
@@ -63,7 +68,7 @@ body {
 	background: #c42f2b;
 	font-size: 39px;
 	position: absolute;
-	left: 350px;
+	left: 345px;
 	top: 0px;
 }
 
@@ -73,7 +78,7 @@ body {
 	background: #c42f2b;
 	font-size: 39px;
 	position: absolute;
-	left: 547px;
+	left: 542px;
 	top: 0px;
 }
 
