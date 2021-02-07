@@ -89,19 +89,3 @@
 	border: 6px white solid;
 	width: 605px;
 }
-
-#com {
-	position: absolute;
-	left: 0px;
-	top: 90px;
-	font-size: 20px;
-	color: black;
-}
-
-#repressed {
-	position: absolute;
-	left: 0px;
-	top: 140px;
-	font-size: 20px;
-	color: black;
-}
