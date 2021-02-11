@@ -1,0 +1,117 @@
+@media only screen and (max-width: 980px) {
+
+body {
+	background: white;
+}
+
+.cap {
+	width: 1005px;
+}
+
+.page {
+	width: 750px;
+}
+
+#name {
+	position: absolute;
+	left: 55px;
+	top: 50px;
+	font-size: 60px;
+	width: 900px;
+}
+
+#project {
+	position: absolute;
+	left: 390px;
+	top: 10px;
+	font-size: 40px;
+}
+
+.menu {
+	left: 145px
+}
+
+.poster {
+	width: 30px;
+}
+
+#topic {
+	position: absolute;
+	left: 180px;
+	top: 130px;
+	font-size: 35px;
+}
+
+#page21 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: -255px;
+	top: 0px;
+}
+
+#page15 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: -55px;
+	top: 0px;
+}
+
+#page50 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 145px;
+	top: 0px;
+}
+
+
+#page05 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 345px;
+	top: 0px;
+}
+
+
+#page51 {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 542px;
+	top: 0px;
+}
+
+.vk {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 200px;
+}
+
+.email {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 400px;
+	width: 380px;
+}
+
+#poster {
+	opacity: 0;
+}
+
+#poster1 {
+	opacity: 0;
+}
+
+}

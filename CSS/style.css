@@ -1,0 +1,13 @@
+body {
+	background: url(img/bd1.png);
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+strong {
+	color: white;
+}
