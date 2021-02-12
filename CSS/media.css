@@ -84,18 +84,18 @@ body {
 
 .gmsr {
 	position: absolute;
-	left: 320px;
+	left: 310px;
 	top: 210px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 30px;
-	width: 600px;
+	font-size: 34px;
+	width: 690px;
 }
 
 .Pgmsr {
 	position: absolute;
-	left: 320px;
-	top: 249px;
+	left: 310px;
+	top: 253px;
 }
 
 }

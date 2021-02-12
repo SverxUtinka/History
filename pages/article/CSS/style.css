@@ -129,3 +129,9 @@ strong {
 	position: absolute;
 	top: 70px;
 }
+
+.posters {
+	position: absolute;
+	top: 210px;
+	left: 50px;
+}

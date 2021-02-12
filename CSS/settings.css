@@ -92,15 +92,16 @@
 
 .gmsr {
 	position: absolute;
-	left: 0px;
-	top: 720px;
+	left: 620px;
+	top: 210px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 30px;
+	font-size: 34px;
+	width: 690px;
 }
 
 .Pgmsr {
 	position: absolute;
-	left: 0px;
-	top: 758px;
+	left: 620px;
+	top: 253px;
 }
