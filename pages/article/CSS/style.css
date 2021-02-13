@@ -103,33 +103,6 @@ strong {
 	top: 0px;
 }
 
-.links {
-	position: absolute;
-	top: 2700px;
-}
-
-.vk {
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-	font-size: 39px;
-	position: absolute;
-	left: 500px;
-}
-
-.email {
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-	font-size: 39px;
-	position: absolute;
-	left: 700px;
-	width: 380px;
-}
-
-#invis {
-	position: absolute;
-	top: 70px;
-}
-
 .posters {
 	position: absolute;
 	top: 210px;

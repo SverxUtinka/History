@@ -98,4 +98,20 @@ body {
 	top: 253px;
 }
 
+.triangle {
+	position: absolute;
+	left: 310px;
+	top: 960px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 34px;
+	width: 690px;
+}
+
+.Ptriangle {
+	position: absolute;
+	left: 310px;
+	top: 1042px;
+}
+
 }

@@ -92,8 +92,8 @@
 
 .gmsr {
 	position: absolute;
-	left: 620px;
-	top: 210px;
+	left: 612px;
+	top: 212px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
 	font-size: 34px;
@@ -102,6 +102,22 @@
 
 .Pgmsr {
 	position: absolute;
-	left: 620px;
-	top: 253px;
+	left: 612px;
+	top: 255px;
+}
+
+.triangle {
+	position: absolute;
+	left: 612px;
+	top: 960px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 34px;
+	width: 690px;
+}
+
+.Ptriangle {
+	position: absolute;
+	left: 612px;
+	top: 1042px;
 }

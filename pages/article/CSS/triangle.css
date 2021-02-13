@@ -35,7 +35,7 @@
 #really {
 	position: absolute;
 	left: 10px;
-	top: 480px;
+	top: 1480px;
 	font-size: 35px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
@@ -44,73 +44,7 @@
 #really1 {
 	position: absolute;
 	left: 10px;
-	top: 540px;
-	font-size: 35px;
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-	width: 800px;
-}
-
-#o {
-	position: absolute;
-	left: 10px;
-	top: 640px;
-	font-size: 35px;
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-}
-
-#o1 {
-	position: absolute;
-	left: 10px;
-	top: 700px;
-	font-size: 35px;
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-	width: 800px;
-}
-
-#o2 {
-	position: absolute;
-	left: 10px;
-	top: 800px;
-	font-size: 35px;
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-}
-
-#o3 {
-	position: absolute;
-	left: 10px;
-	top: 860px;
-	font-size: 35px;
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-	width: 800px;
-}
-
-#o4 {
-	position: absolute;
-	left: 10px;
-	top: 1160px;
-	font-size: 35px;
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-}
-
-#o5 {
-	position: absolute;
-	left: 10px;
-	top: 1220px;
-	font-size: 35px;
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-}
-
-#o6 {
-	position: absolute;
-	left: 10px;
-	top: 2540px;
+	top: 1540px;
 	font-size: 35px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
@@ -126,12 +60,13 @@
 #poster1 {
 	position: absolute;
 	right: 30px;
-	top: 1450px;
+	top: 1180px;
 }
 
 .links {
 	position: absolute;
-	top: 2700px;
+	top: 2230px;
+	left: 30px;
 }
 
 .vk {
