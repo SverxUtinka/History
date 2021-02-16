@@ -35,7 +35,7 @@
 #really {
 	position: absolute;
 	left: 10px;
-	top: 1480px;
+	top: 900px;
 	font-size: 35px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
@@ -44,7 +44,7 @@
 #really1 {
 	position: absolute;
 	left: 10px;
-	top: 1540px;
+	top: 960px;
 	font-size: 35px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
@@ -65,7 +65,7 @@
 
 .links {
 	position: absolute;
-	top: 2230px;
+	top: 1360px;
 	left: 30px;
 }
 

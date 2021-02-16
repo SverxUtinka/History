@@ -1,7 +1,8 @@
 @media only screen and (max-width: 980px) {
 
 body {
-	background: white;
+	background: url(img/bd1.png);
+	background-size: 1220px 4080px;
 }
 
 .cap {
