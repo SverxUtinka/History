@@ -112,7 +112,19 @@ body {
 .Ptriangle {
 	position: absolute;
 	left: 310px;
-	top: 1042px;
+	top: 1003px;
+}
+
+#poster5 {
+	opacity: 0;
+}
+
+#poster6 {
+	opacity: 0;
+}
+
+#poster7 {
+	opacity: 0;
 }
 
 }

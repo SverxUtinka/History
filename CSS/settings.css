@@ -119,5 +119,26 @@
 .Ptriangle {
 	position: absolute;
 	left: 612px;
-	top: 1042px;
+	top: 1003px;
+}
+
+#poster5 {
+	position: absolute;
+	right: 10px;
+	top: 213px;
+	border: 6px white solid;
+}
+
+#poster6 {
+	position: absolute;
+	right: 10px;
+	top: 740px;
+	border: 6px white solid;
+}
+
+#poster7 {
+	position: absolute;
+	right: 10px;
+	top: 1267px;
+	border: 6px white solid;
 }
