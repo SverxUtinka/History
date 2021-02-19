@@ -115,6 +115,23 @@ body {
 	top: 1003px;
 }
 
+.och {
+	position: absolute;
+	left: 310px;
+	top: 1720px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 34px;
+	width: 690px;
+}
+
+.Poch {
+	position: absolute;
+	left: 310px;
+	top: 1763px;
+	width: 698px;
+}
+
 #poster5 {
 	opacity: 0;
 }

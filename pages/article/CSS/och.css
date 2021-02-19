@@ -1,0 +1,92 @@
+.docDiv {
+	position: absolute;
+	left: 10px;
+	top: 1280px;
+}
+
+#title {
+	position: absolute;
+	left: 10px;
+	top: 240px;
+	font-size: 45px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+}
+
+#mif {
+	position: absolute;
+	left: 10px;
+	top: 320px;
+	font-size: 35px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+}
+
+#mif1 {
+	position: absolute;
+	left: 10px;
+	top: 380px;
+	font-size: 35px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	width: 800px;
+}
+
+#really {
+	position: absolute;
+	left: 10px;
+	top: 600px;
+	font-size: 35px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+}
+
+#really1 {
+	position: absolute;
+	left: 10px;
+	top: 660px;
+	font-size: 35px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	width: 800px;
+}
+
+#poster {
+	position: absolute;
+	right: 30px;
+	top: 400px;
+}
+
+#poster1 {
+	position: absolute;
+	right: 30px;
+	top: 1180px;
+}
+
+.links {
+	position: absolute;
+	top: 1360px;
+	left: 30px;
+}
+
+.vk {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 500px;
+}
+
+.email {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	left: 700px;
+	width: 380px;
+}
+
+#invis {
+	position: absolute;
+	top: 70px;
+}

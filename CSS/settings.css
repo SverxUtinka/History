@@ -122,6 +122,22 @@
 	top: 1003px;
 }
 
+.och {
+	position: absolute;
+	left: 5px;
+	top: 720px;
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 34px;
+	width: 590px;
+}
+
+.Poch {
+	position: absolute;
+	left: 5px;
+	top: 764px;
+}
+
 #poster5 {
 	position: absolute;
 	right: 10px;
