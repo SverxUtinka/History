@@ -108,3 +108,40 @@ strong {
 	top: 210px;
 	left: 50px;
 }
+
+.links {
+	position: absolute;
+	top: 2700px;
+}
+
+.vk {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	top: 80px;
+	left: 0px;
+}
+
+.email {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	top: 80px;
+	left: 200px;
+	width: 380px;
+}
+
+#invis {
+	position: absolute;
+	left: -10px;
+	top: 30px;
+	opacity: .9;
+	border: 2px #A82C2C solid;
+	background: #A82C2C;
+	color: #A82C2C;
+	font-size: 100px;
+	width: 1657px;
+	height: 150px;
+}
