@@ -90,23 +90,6 @@ body {
 	top: 0px;
 }
 
-.vk {
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-	font-size: 39px;
-	position: absolute;
-	left: 200px;
-}
-
-.email {
-	border: 4px #A82C2C solid;
-	background: #c42f2b;
-	font-size: 39px;
-	position: absolute;
-	left: 400px;
-	width: 380px;
-}
-
 #poster {
 	opacity: 0;
 }
@@ -119,6 +102,42 @@ body {
 	position: absolute;
 	top: 210px;
 	left: 120px;
+}
+
+.links {
+	position: absolute;
+	top: 1600px;
+}
+
+.vk {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	top: 80px;
+	left: 0px;
+}
+
+.email {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	top: 80px;
+	left: 200px;
+	width: 380px;
+}
+
+#invis {
+	position: absolute;
+	left: -10px;
+	top: 30px;
+	border: 2px #A82C2C solid;
+	background: #A82C2C;
+	color: #A82C2C;
+	font-size: 100px;
+	width: 1005px;
+	height: 150px;
 }
 
 }

@@ -158,3 +158,39 @@
 	top: 1267px;
 	border: 6px white solid;
 }
+
+.links {
+	position: absolute;
+	top: 1750px;
+}
+
+.vk {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	top: 80px;
+	left: -350px;
+}
+
+.email {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	top: 80px;
+	left: -150px;
+	width: 380px;
+}
+
+#invis {
+	position: absolute;
+	left: -362px;
+	top: 30px;
+	border: 2px #A82C2C solid;
+	background: #A82C2C;
+	color: #A82C2C;
+	font-size: 100px;
+	width: 1659px;
+	height: 150px;
+}

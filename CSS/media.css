@@ -34,6 +34,7 @@ body {
 
 .poster {
 	width: 30px;
+	opacity: .0;
 }
 
 #page21 {
@@ -85,51 +86,53 @@ body {
 
 .gmsr {
 	position: absolute;
-	left: 310px;
+	left: 100px;
 	top: 210px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 34px;
-	width: 690px;
+	font-size: 40px;
+	width: 800px;
 }
 
 .Pgmsr {
 	position: absolute;
-	left: 310px;
+	left: 100px;
 	top: 253px;
+	width: 808px;
 }
 
 .triangle {
 	position: absolute;
-	left: 310px;
+	left: 100px;
 	top: 960px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 34px;
-	width: 690px;
+	font-size: 40px;
+	width: 800px;
 }
 
 .Ptriangle {
 	position: absolute;
-	left: 310px;
+	left: 100px;
 	top: 1003px;
+	width: 808px;
 }
 
 .och {
 	position: absolute;
-	left: 310px;
+	left: 100px;
 	top: 1720px;
 	border: 4px #A82C2C solid;
 	background: #c42f2b;
-	font-size: 34px;
-	width: 690px;
+	font-size: 40px;
+	width: 800px;
 }
 
 .Poch {
 	position: absolute;
-	left: 310px;
+	left: 100px;
 	top: 1763px;
-	width: 698px;
+	width: 808px;
 }
 
 #poster5 {
@@ -142,6 +145,42 @@ body {
 
 #poster7 {
 	opacity: 0;
+}
+
+.links {
+	position: absolute;
+	top: 2500px;
+}
+
+.vk {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	top: 80px;
+	left: -100px;
+}
+
+.email {
+	border: 4px #A82C2C solid;
+	background: #c42f2b;
+	font-size: 39px;
+	position: absolute;
+	top: 80px;
+	left: 100px;
+	width: 380px;
+}
+
+#invis {
+	position: absolute;
+	left: -360px;
+	top: 30px;
+	border: 2px #A82C2C solid;
+	background: #A82C2C;
+	color: #A82C2C;
+	font-size: 100px;
+	width: 1259px;
+	height: 150px;
 }
 
 }
